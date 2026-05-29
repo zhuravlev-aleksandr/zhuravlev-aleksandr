@@ -1,7 +1,9 @@
 # Hi there 👋
 
 DevOps engineer, 9+ years in fintech.
+
 Open to work.
+
 My CV [for humans](https://zhuravlev-aleksandr.github.io/devops-zhuravlev-cv.md) and [for agents](https://zhuravlev-aleksandr.github.io/).
 
 
